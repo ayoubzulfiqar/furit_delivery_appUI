@@ -14,4 +14,6 @@ https://www.figma.com/file/Ks1vP6KpQifRKsl9FV7yRN/UI%2FInteraction-Design?node-i
 ## Project Demo
 https://youtu.be/qlQfr29WGOM
 
+Project demo available in demo folder
+
 ![Fruit Delivery App](demo\fruit-delivery-appUI.gif)
